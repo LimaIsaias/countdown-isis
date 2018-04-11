@@ -1,0 +1,6 @@
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css");
+
+.container .row{
+    height: -webkit-fill-available;
+    text-align: center;
+}
